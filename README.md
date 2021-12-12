@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kangyue
 - 👀 I’m interested in OS, and programming
-- 🌱 I’m currently USYD ug student
+- 🌱 I’m currently an ug student in USYD
 
 
 <!---
