@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kangyue
-- 👀 I’m interested in distibuted system, and blockchain.
-.- 🌱 I’m currently an ug student in USYD
+- 👀 I’m interested in distibuted system, and blockchain  
+- 🌱 I’m currently an ug student in USYD
 
 
 <!---
