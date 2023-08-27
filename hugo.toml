@@ -1,4 +1,4 @@
-baseURL = 'https://ifuon.github.io/iFuon/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
