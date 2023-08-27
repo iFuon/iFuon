@@ -2,3 +2,38 @@ baseURL = 'https://ifuon.github.io/iFuon/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
+
+[params]
+title = "I'm Kangyue"
+author = "iFuon"
+profilePicture = "images/puppy.jpg"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:kafu3550@uni.sydney.edu.au"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
