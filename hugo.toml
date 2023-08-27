@@ -1,17 +1,18 @@
 baseURL = 'https://ifuon.github.io/iFuon/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kangyue'
 theme = "anatole"
 
 [params]
 title = "I'm Kangyue"
 author = "iFuon"
+
 profilePicture = "images/puppy.jpg"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://github.com/iFuon"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
@@ -26,14 +27,4 @@ url = "mailto:kafu3550@uni.sydney.edu.au"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+ 
