@@ -11,8 +11,13 @@ profilePicture = "images/puppy.jpg"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
-title = "Linkedin"
+title = "github"
 url = "https://github.com/iFuon"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/kangyue-fu/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
