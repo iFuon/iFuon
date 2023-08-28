@@ -6,7 +6,7 @@ theme = "anatole"
 [params]
 title = "I'm Kangyue"
 author = "iFuon"
-
+description = "Blockchain, Decentralized, Finance"
 profilePicture = "images/puppy.jpg"
 
 [[params.socialIcons]]
