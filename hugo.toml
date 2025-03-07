@@ -7,7 +7,7 @@ theme = "anatole"
 title = "I'm Kangyue"
 author = "iFuon"
 description = "Blockchain, Decentralized, Finance"
-profilePicture = "images/puppy.jpg"
+profilePicture = "images/me.jpg"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
