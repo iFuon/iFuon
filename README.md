@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kangyue
-- 👀 I’m interested in decentralized system, blockchain, AI agent
+- 👀 I’m interested in decentralized system, blockchain, and AI agent
 - 🌱 I’m an ug student in USYD, and currently at UNSW, Sydney
 
 
